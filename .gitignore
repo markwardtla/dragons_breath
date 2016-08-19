@@ -1,0 +1,3 @@
+*.pyc
+plotting_exercise
+docs/build/*
